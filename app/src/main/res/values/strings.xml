@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ComponentsTask</string>
+    <string name="income">Income</string>
+    <string name="num_income">$8000</string>
+    <string name="num_expense">$11000</string>
+    <string name="new_income">$10000</string>
+    <string name="new_expense">$19000</string>
+    <string name="_continue">Continue</string>
+    <string name="_prev">Previous</string>
+    <string name="title_text">Expenses</string>
+    <string name="new_title">New Screen</string>
+    <string name="repeat">Repeat</string>
+    <string name="expenses">Expenses</string>
+    <string name="dummy">dummy</string>
+</resources>
